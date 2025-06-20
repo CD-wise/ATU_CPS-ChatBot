@@ -6,7 +6,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "ATU Assistant - Accra Technical University Chatbot",
+  title: "ATU-CPS ASSISTANT - Accra Technical University Chatbot",
   description:
     "Official chatbot for Accra Technical University Computer Science Department. Get information about programs, admissions, courses, and university services.",
   keywords:

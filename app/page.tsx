@@ -17,6 +17,7 @@ const QUICK_QUESTIONS = [
   "How long is the HND program?",
   "What programming languages are taught?",
   "Is accommodation available on campus?",
+  "What does COMPSSA mean?"
 ]
 
 export default function ATUChatbot() {
@@ -58,7 +59,7 @@ export default function ATUChatbot() {
                 <GraduationCap className="h-5 w-5 md:h-6 md:w-6 text-white" />
               </div>
               <div>
-                <h1 className="text-lg md:text-xl font-bold text-gray-800">ATU Assistant</h1>
+                <h1 className="text-lg md:text-xl font-bold text-gray-800">ATU-CPS ASSISTANT</h1>
                 <p className="text-xs md:text-sm text-gray-600 hidden sm:block">Accra Technical University</p>
               </div>
             </div>
@@ -113,7 +114,7 @@ export default function ATUChatbot() {
                       <Bot className="h-6 w-6 md:h-8 md:w-8 text-green-600" />
                     </div>
                     <h3 className="text-base md:text-lg font-semibold text-gray-800 mb-2">
-                      Welcome to ATU Assistant! 🎓
+                      Welcome to ATU-CPS ASSISTANT! 🎓
                     </h3>
                     <p className="text-sm md:text-base text-gray-600 mb-4 px-4">
                       I'm here to help with information about Computer Science, Cybersecurity, IT programs, and general
@@ -234,7 +235,7 @@ export default function ATUChatbot() {
 
         {/* Compact Mobile Footer */}
         <div className="text-center mt-2 md:mt-4 text-xs md:text-sm text-gray-600">
-          <p>© 2024 Accra Technical University</p>
+          <p>© 2025 Accra Technical University</p>
           <p className="mt-1 hidden md:block">For official information, visit www.atu.edu.gh</p>
         </div>
       </div>

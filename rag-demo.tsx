@@ -288,7 +288,7 @@ The curriculum is designed to give you a strong foundation starting with Python'
                 <pre className="text-xs overflow-x-auto">
                   {`// Static knowledge in system prompt
 const prompt = \`
-You are ATU Assistant...
+You are ATU-CPS ASSISTANT...
 PROGRAMS:
 - HND Computer Science (2-3 years)
 - BTech Computer Science (4 years)
