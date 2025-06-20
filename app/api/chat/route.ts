@@ -100,7 +100,7 @@ STUDENT SERVICES:
 
 CONTACT INFORMATION:
 - Main Campus: Accra, Greater Accra Region
-- Phone: +233 XXX XXX XXXX
+- Phone: +233544368159
 - Email: info@atu.edu.gh
 - Website: www.atu.edu.gh
 
