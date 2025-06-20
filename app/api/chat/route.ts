@@ -144,6 +144,9 @@ A: COMPSSA stands for Computer Science Students Association. It's the official s
 
 Q: What is ATU-CPS 
 A: ATU-CPS stands for Accra technical University - Computer Science
+
+Q: What the CGPA standard of ATU
+A: It ranges from 1.0 - 5.0 CGPA
 `
 
 export async function POST(req: Request) {
