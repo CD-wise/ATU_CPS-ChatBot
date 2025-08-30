@@ -147,7 +147,24 @@ A: ATU-CPS stands for Accra technical University - Computer Science
 
 Q: What the CGPA standard of ATU
 A: It ranges from 1.0 - 5.0 CGPA
-`
+
+Q: What is the minimum CGPA for graduation?
+A: The minimum CGPA for graduation at ATU is 2.0.
+Q: What happens if I don't meet the minimum CGPA?
+A: If you don't meet the minimum CGPA, you may be placed on academic probation and given a chance to improve your grades. However, failing to raise your CGPA may result in dismissal from the program.
+
+Q: Q: Who is the current Head of the Computer Science Department or HOD of Compssa?
+A: The current Head of the Computer Science Department is Dr Joseph Dadzie.
+He currently took over after the late Mr. Wisdom Torgby.
+Q: Who is the current Dean of the Faculty of Applied Sciences?
+A: The current Dean of the Faculty of Applied Sciences is Prof. Nana Yaw Asabere.
+He is an Associate Professor in the computer Science Department.
+He was formerly the director of Research, Innovation, Publication and Technology Transfer.
+
+Q: Who is the current President of Compssa?
+A: The current president of Compssa is Stephen Boison who work together with 7 other executives..
+Currently the department has had an e- voting election and new executive will be announced soon`
+
 
 export async function POST(req: Request) {
   const { messages } = await req.json()
